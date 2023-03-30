@@ -1,0 +1,152 @@
+[
+  {
+    "id": "642342b4ad8f61cd3dc1cfa0",
+    "index": 0,
+    "balance": "$2,552.81",
+    "picture": "http://placehold.it/32x32",
+    "price": 385,
+    "eyeColor": "green",
+    "name": "Lynne Bean",
+    "gender": "female",
+    "company": "GLEAMINK",
+    "email": "lynnebean@gleamink.com",
+    "phone": "+1 (812) 408-3995",
+    "address": "138 Brooklyn Road, Trinway, Florida, 5546",
+    "about": "Velit do occaecat cupidatat enim veniam ea incididunt occaecat commodo ad anim cupidatat aliqua cupidatat. Dolore dolore fugiat culpa nostrud dolor exercitation elit ea deserunt officia sunt dolor. Sit minim aliqua elit incididunt quis laboris aute. Nulla occaecat eu veniam aute. Culpa magna sint ullamco eu sunt.\r\n",
+    "registered": "2019-01-04T04:37:11 -06:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Emerson Sandoval"
+      },
+      {
+        "id": 1,
+        "name": "Hunter Harrell"
+      },
+      {
+        "id": 2,
+        "name": "Santos Pennington"
+      }
+    ]
+  },
+  {
+    "id": "642342b4c647853856ae2ffd",
+    "index": 1,
+    "balance": "$1,289.03",
+    "picture": "http://placehold.it/32x32",
+    "price": 294,
+    "eyeColor": "blue",
+    "name": "Annette Montoya",
+    "gender": "female",
+    "company": "BLUPLANET",
+    "email": "annettemontoya@bluplanet.com",
+    "phone": "+1 (900) 553-2839",
+    "address": "964 Noble Street, Lewis, New Hampshire, 6641",
+    "about": "Irure velit commodo laboris voluptate sunt ullamco do nisi sit tempor est cupidatat. Lorem magna eu qui id enim cillum ipsum id do amet magna proident sit quis. Est dolore aute commodo exercitation laboris officia sint magna.\r\n",
+    "registered": "2014-12-19T09:17:24 -06:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Myra Eaton"
+      },
+      {
+        "id": 1,
+        "name": "Fox Bowman"
+      },
+      {
+        "id": 2,
+        "name": "Salinas Schwartz"
+      }
+    ]
+  },
+  {
+    "id": "642342b4c1a852ae4fb1453c",
+    "index": 2,
+    "balance": "$1,785.95",
+    "picture": "http://placehold.it/32x32",
+    "price": 285,
+    "eyeColor": "blue",
+    "name": "Sherri Zimmerman",
+    "gender": "female",
+    "company": "NSPIRE",
+    "email": "sherrizimmerman@nspire.com",
+    "phone": "+1 (830) 499-2494",
+    "address": "283 Nixon Court, Choctaw, Montana, 8884",
+    "about": "Irure voluptate sint ut occaecat aliquip ea sit velit incididunt pariatur. Commodo consequat eiusmod aliquip cillum fugiat sit aliquip dolore laborum nostrud. Occaecat voluptate occaecat commodo cupidatat ullamco eiusmod occaecat. Cupidatat duis ut excepteur nisi esse magna cupidatat consectetur dolore voluptate veniam in. Consequat cillum quis nostrud aliqua minim. Id enim nostrud sint mollit incididunt id ad ullamco laborum aliqua magna amet. Elit dolore laboris anim nulla sit amet tempor deserunt dolore tempor duis laborum.\r\n",
+    "registered": "2023-01-06T11:04:56 -06:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Patrica Briggs"
+      },
+      {
+        "id": 1,
+        "name": "Livingston Klein"
+      },
+      {
+        "id": 2,
+        "name": "Monica Duke"
+      }
+    ]
+  },
+  {
+    "id": "642342b4ec00c367d4504559",
+    "index": 3,
+    "balance": "$2,264.08",
+    "picture": "http://placehold.it/32x32",
+    "price": 201,
+    "eyeColor": "blue",
+    "name": "Norma Beck",
+    "gender": "female",
+    "company": "XPLOR",
+    "email": "normabeck@xplor.com",
+    "phone": "+1 (998) 432-3017",
+    "address": "927 Clymer Street, Courtland, Virginia, 1128",
+    "about": "Aliqua nostrud duis id incididunt reprehenderit labore nulla dolor. Ea id elit adipisicing qui qui nostrud minim veniam. Anim cupidatat sit nostrud enim non voluptate ad esse quis. Exercitation veniam occaecat elit dolore non eiusmod velit do proident enim cupidatat.\r\n",
+    "registered": "2015-08-23T07:24:24 -06:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Weber Dickson"
+      },
+      {
+        "id": 1,
+        "name": "Caldwell Schultz"
+      },
+      {
+        "id": 2,
+        "name": "Mcbride Wood"
+      }
+    ]
+  },
+  {
+    "id": "642342b4be6ab8543e31e40d",
+    "index": 4,
+    "balance": "$3,492.58",
+    "picture": "http://placehold.it/32x32",
+    "price": 400,
+    "eyeColor": "blue",
+    "name": "Parks Kramer",
+    "gender": "male",
+    "company": "QUONK",
+    "email": "parkskramer@quonk.com",
+    "phone": "+1 (861) 595-2531",
+    "address": "978 Henry Street, Crenshaw, Hawaii, 8668",
+    "about": "Deserunt proident sit aute ex aliqua culpa et aliqua sunt deserunt excepteur minim elit. Officia cillum reprehenderit et ipsum duis culpa cupidatat. Mollit consequat nulla cupidatat voluptate nisi id id. Minim velit ad adipisicing mollit labore duis ex labore duis nisi anim non. Voluptate deserunt anim laboris deserunt quis ut sint in nisi ad anim in anim. Nulla duis ea labore eu reprehenderit ad ex consectetur. Consectetur consectetur laborum aliqua occaecat eiusmod deserunt consectetur laboris cupidatat laborum cupidatat proident.\r\n",
+    "registered": "2016-06-27T10:41:53 -06:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kerry Farley"
+      },
+      {
+        "id": 1,
+        "name": "Viola Kirk"
+      },
+      {
+        "id": 2,
+        "name": "Owens Ward"
+      }
+    ]
+  }
+]

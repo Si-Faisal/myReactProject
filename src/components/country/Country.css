@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}.countryName {
+    color: rgb(253, 255, 230);
+    background-color: rgb(42, 29, 228);
+    padding: 20px;
+    border-radius: 10px;
+}
+#root{
+    padding: 0;
+}

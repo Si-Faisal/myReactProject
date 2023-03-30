@@ -1,0 +1,12 @@
+.single-card{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap: 10px;
+   
+    
+}
+.innerCard{
+    border: 2px solid rgb(78, 185, 87);
+    padding: 30px;
+    margin-top: 40px;
+}
